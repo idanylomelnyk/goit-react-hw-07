@@ -1,0 +1,22 @@
+.container {
+  margin: 0 auto;
+  max-width: 1400px;
+  padding: 0 15px;
+}
+
+.title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.wrapper {
+  display: flex;
+  gap: 50px;
+}
+
+.inner {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
